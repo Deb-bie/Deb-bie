@@ -15,7 +15,7 @@ I love creating systems that are accessible and practical for everyday use. My c
 
 Currently, I'm building **mySkiiinAI** - an intelligent system that helps people achieve their desired skincare goals through personalized recommendations. Through coursework in **Pattern Recognition, Machine Learning, and Computer Vision**, combined with hands-on project experience, I'm building the expertise to tackle challenging problems in AI and data science.
 
-I'm actively seeking opportunities in **Machine Learning, AI, and Data Science** roles, where I can contribute to impactful projects and continue learning from the best minds in the industry.  
+I'm actively seeking opportunities in **Machine Learning, Data Science and Software Engineering** roles, where I can contribute to impactful projects and continue learning from the best minds in the industry.  
   
 
 <br/>  
