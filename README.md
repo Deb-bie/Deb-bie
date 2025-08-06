@@ -24,7 +24,7 @@ I'm actively seeking opportunities in **Machine Learning, Data Science and Softw
 ##  🔍 What I’m Working On
 - 🌱  I’m currently building **mySkiiinAI**, an AI system designed to assist users with personalized skincare needs.
   
-- 🎓  Enhancing my knowledge of deep learning, LLMs, AI system design and software engineering.
+- 🎓  Enhancing my knowledge of **deep learning, LLMs, AI system design** and **software engineering**.
 
 - 💡  Exploring: MLOps, model deployment, and scalable AI systems
 
