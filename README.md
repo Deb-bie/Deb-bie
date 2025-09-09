@@ -9,13 +9,13 @@
 
 
 ### About Me  
-I'm a Machine Learning Engineer passionate about leveraging artificial intelligence to solve real-world problems. With **2+** years of software engineering experience, I'm now channeling my technical foundation into building intelligent systems that make a meaningful impact.
+I’m a Software Engineer with nearly 2 years of experience building scalable systems, now expanding into Machine Learning, Data Science, and Data Engineering. My technical foundation includes 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐉𝐚𝐯𝐚, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, and experience with backend frameworks like 𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬, 𝐅𝐥𝐚𝐬𝐤, 𝐅𝐚𝐬𝐭𝐀𝐏𝐈, 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋, 𝐌𝐲𝐒𝐐𝐋, 𝐒𝐐𝐋𝐢𝐭𝐞, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁), 𝐚𝐧𝐝 𝐜𝐥𝐨𝐮𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 (𝐀𝐖𝐒).
 
-I love creating systems that are accessible and practical for everyday use. My current focus involves **computer vision, natural language processing, and personalized AI** systems that adapt to individual user needs.
+On the data and AI side, I work with 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰, 𝐏𝐲𝐓𝐨𝐫𝐜𝐡, 𝐒𝐜𝐢𝐤𝐢𝐭-𝐥𝐞𝐚𝐫𝐧, 𝐏𝐚𝐧𝐝𝐚𝐬, 𝐚𝐧𝐝 𝐍𝐮𝐦𝐏𝐲, and I have experience applying techniques in Computer vision, NLP, and recommendation systems. I also leverage data engineering tools like 𝐊𝐚𝐟𝐤𝐚, 𝐀𝐢𝐫𝐟𝐥𝐨𝐰, 𝐚𝐧𝐝 𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐬𝐞𝐚𝐫𝐜𝐡, and containerization/orchestration with 𝐃𝐨𝐜𝐤𝐞𝐫 𝐚𝐧𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 to build scalable pipelines and services.
 
-Currently, I'm building **mySkiiinAI** - an intelligent system that helps people achieve their desired skincare goals through personalized recommendations. Through coursework in **Pattern Recognition, Machine Learning, and Computer Vision**, combined with hands-on project experience, I'm building the expertise to tackle challenging problems in AI and data science.
+Currently, I’m building 𝐦𝐲𝐒𝐤𝐢𝐢𝐢𝐧𝐀𝐈 a personalized skincare recommendation system, while also deepening my expertise through coursework in Pattern Recognition, Machine Learning, and Computer Vision. My goal is to bridge software engineering practices with data-driven, intelligent systems that make a meaningful impact.
 
-I'm actively seeking opportunities in **Machine Learning, Data Science and Software Engineering** roles, where I can contribute to impactful projects and continue learning from the best minds in the industry.  
+I’m actively seeking opportunities across 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, and 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, where I can contribute to impactful projects and continue growing alongside industry leaders.
   
 
 <br/>  
